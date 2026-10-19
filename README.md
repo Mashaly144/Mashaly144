@@ -1,14 +1,15 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=181818&amp;height=175&amp;text=FROM%20IDEA%20TO%20PRODUCTION&amp;fontSize=30&amp;fontColor=F5F5F5&amp;fontAlignY=40&amp;desc=Business%20thinking.%20Frontend%20craft.%20Real%20delivery.&amp;descSize=15&amp;descAlignY=66" alt="From idea to production. Business thinking. Frontend craft. Real delivery." />
+  <img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=42&amp;duration=2800&amp;pause=2000&amp;color=F5F5F5&amp;background=181818&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=854&amp;height=150&amp;lines=Abdallah+Mashaly" alt="Abdallah Mashaly" />
 
-  <h1>Abdallah Mashaly</h1>
   <p><strong>Frontend Developer · React · Next.js · TypeScript</strong></p>
-  <p>I turn business requirements into digital products people can actually use.</p>
+  <p>
+    <img width="720" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=2400&amp;color=64748B&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=45&amp;lines=From+idea+to+production.;Business+thinking.+Frontend+craft.;Clear+requirements.+Delivered+products." alt="From idea to production. Business thinking. Frontend craft. Clear requirements. Delivered products." />
+  </p>
 
-  <a href="mailto:abdallahmashaly144@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=gmail&amp;logoColor=E5E5E5" alt="Email Abdallah" /></a>
-  <a href="https://www.linkedin.com/in/abdallah-mashaly-797482250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-181818?style=for-the-badge&amp;labelColor=303030&amp;logoColor=E5E5E5" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Mashaly144"><img src="https://img.shields.io/badge/GitHub-Mashaly144-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=github&amp;logoColor=E5E5E5" alt="Mashaly144 on GitHub" /></a>
+  <a href="mailto:abdallahmashaly144@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=gmail&amp;logoColor=EA4335" alt="Email Abdallah" /></a>
+  <a href="https://www.linkedin.com/in/abdallah-mashaly-797482250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMyIgZmlsbD0iIzBBNjZDMiIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjYiIHI9IjEuNiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01IDloM3YxMEg1ek0xMCA5aDN2MS40Yy44LTEuMiAxLjgtMS43IDMuMi0xLjcgMi43IDAgMy44IDEuNiAzLjggNC41VjE5aC0zdi01LjJjMC0xLjQtLjMtMi40LTEuOC0yLjRTMTMgMTIuNSAxMyAxMy44VjE5aC0zeiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Mashaly144"><img src="https://img.shields.io/badge/GitHub-Mashaly144-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=github&amp;logoColor=FFFFFF" alt="Mashaly144 on GitHub" /></a>
 
   <p><sub>Mansoura, Egypt &nbsp; / &nbsp; Arabic &amp; English &nbsp; / &nbsp; Web products, platforms &amp; commerce</sub></p>
 
@@ -37,12 +38,12 @@ $ ./build-a-product
 ### `02 / toolkit` &nbsp; What I build with
 
 <p>
-  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=react&amp;logoColor=E5E5E5" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=nextdotjs&amp;logoColor=E5E5E5" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=typescript&amp;logoColor=E5E5E5" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=tailwindcss&amp;logoColor=E5E5E5" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/WordPress-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=wordpress&amp;logoColor=E5E5E5" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=shopify&amp;logoColor=E5E5E5" alt="Shopify" />
+  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WordPress-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=wordpress&amp;logoColor=21759B" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-181818?style=for-the-badge&amp;labelColor=303030&amp;logo=shopify&amp;logoColor=96BF48" alt="Shopify" />
 </p>
 
 | Area | Technologies & practices |
